@@ -7,39 +7,39 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:951131963362:android:ca06eb1de4b35ce21dc3bb",
+        "mobilesdk_app_id": "1:95111963362:android:cab35ce21dc3bb",
         "android_client_info": {
           "package_name": "com.appointerbyasps.appoiter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "951131963362-11g2scnh0ivh1vgtoaqnvov1j5ebjbk9.apps.googleusercontent.com",
+          "client_id": "951131362-11g2scnh0ivh1vgtoaqnvov1j5ebjbk9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.appointerbyasps.appoiter",
-            "certificate_hash": "3e44565f5440f2b0796cedb1c797ac2bc65fc7d8"
+            "certificate_hash": "3e44565f5440f2b079b1c797ac2bc65fc7d8"
           }
         },
         {
-          "client_id": "951131963362-u1l2hrqc2h4mrkelo5kg8paq4k4a5t5s.apps.googleusercontent.com",
+          "client_id": "951131963362-u1kg8paq4k4a5t5s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBWeRRLJDGloUruaf66jvWyN-BqeVSkU2k"
+          "current_key": "PUT YOUR KEY HERE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "951131963362-778lgd0pekpv8qig7p7k8e4q7c5s8mtt.apps.googleusercontent.com",
+              "client_id": "951131963362-778lgd0pek8e4q7c5s8mtt.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "951131963362-g95s5s15ba3mkgae30i7kaqnn0ugdr47.apps.googleusercontent.com",
+              "client_id": "951131963362-g90i7kaqnn0ugdr47.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.appointerbyasps.appoiter"
