@@ -48,7 +48,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'PUT YOUR KEY HERE',
-    appId: '1:951131963362:web:57473d5ee9829b471dc3bb',
+    appId: '1:951131963362:web:57473d5ee9b471dc3bb',
     messagingSenderId: '951131963362',
     projectId: 'appointer-project',
     authDomain: 'appointer-project.firebaseapp.com',
@@ -58,15 +58,15 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'PUT YOUR KEY HERE',
-    appId: '1:951131963362:android:ca06eb1de4b35ce21dc3bb',
+    appId: '1:951131963362:android:ca06eb1de4b3521dc3bb',
     messagingSenderId: '951131963362',
     projectId: 'appointer-project',
     storageBucket: 'appointer-project.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD_iEv6lsL3cndI_V0ER4TrndQjMpAJBl0',
-    appId: '1:951131963362:ios:56b858d9ae5f71441dc3bb',
+    apiKey: 'PUT YOUR KEY HERE',
+    appId: '1:951131963362:ios:56b85e5f71441dc3bb',
     messagingSenderId: '951131963362',
     projectId: 'appointer-project',
     storageBucket: 'appointer-project.appspot.com',
